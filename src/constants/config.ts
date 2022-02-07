@@ -1,6 +1,6 @@
 export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
-  language: 'Chinook Wawa - Jargon', // This changes the display name for your language
+  language: 'Chinook Wawa', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Cedar Étoile', // with help from Ben Altair
   authorWebsite: 'https://cedartaatawasi.com', // Put a link to your website or social media here
